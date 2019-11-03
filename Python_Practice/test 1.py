@@ -1,17 +1,25 @@
-test = ("hello,\nsecond line")
-print(test)
+# test = ("hello,\nsecond line")
+# print(test)
+#
+# words = ("first,\nsecond,\nthird")
+# print(words)
+#
+# print("first 1" + ",\n" + "second 2" + "," + "third 3")
+#
+# print("test" * 100)
+#
+# print("|" * 100)
+#
+# print("=" * 100)
+#
+# print("0" * 100)
+#
+# print(300 * "8")
 
-words = ("first,\nsecond,\nthird")
-print(words)
+print(10+10)
 
-print("first 1" + ",\n" + "second 2" + "," + "third 3")
+print(10//3)
 
-print("test" * 100)
+print(10%3)
 
-print("|" * 300)
-
-print("=" * 300)
-
-print("0" * 300)
-
-print(300 * "8")
+print(10%1)
